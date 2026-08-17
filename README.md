@@ -147,7 +147,7 @@ Customer-Segmentation-RFM-Analysis/
 │
 └── README.md
 
-🚀 Project Workflow
+## 📌 Project Flow
 
 Raw Transaction Data
         ↓
