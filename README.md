@@ -146,54 +146,38 @@ Customer-Segmentation-RFM-Analysis/
 │   └── Customer Segmentation Analysis.sql
 │
 └── README.md
+```
+## 📌 Business Recommendations
+### 1. Retain Champions
+ Provide loyalty rewards and exclusive offers.
+ Encourage repeat purchases.
+ Build long-term customer relationships.
+### 2. Strengthen Loyal Customers
+ Use personalized product recommendations.
+ Introduce loyalty benefits.
+ Encourage cross-selling and upselling.
+### 3. Convert Potential Loyalists
+ Provide targeted promotions.
+ Encourage more frequent purchases.
+ Offer personalized recommendations.
+### 4. Re-engage At Risk Customers
+ Launch personalized win-back campaigns.
+ Offer limited-time discounts.
+ Identify reasons for declining engagement.
+### 5. Recover Lost Customers
+ Run targeted reactivation campaigns.
+ Provide relevant offers.
+ Analyze previous purchasing behavior to improve re-engagement.
 
-## 📌 Project Flow
 
-Raw Transaction Data
-        ↓
-Data Cleaning & Preparation
-        ↓
-Customer-Level RFM Calculation
-        ↓
-RFM Scoring
-        ↓
-Customer Segmentation
-        ↓
-Business Analysis
-        ↓
-Power BI Dashboard
-        ↓
-Business Insights & Recommendations
-
-📌 Business Recommendations
-1. Retain Champions
-Provide loyalty rewards and exclusive offers.
-Encourage repeat purchases.
-Build long-term customer relationships.
-2. Strengthen Loyal Customers
-Use personalized product recommendations.
-Introduce loyalty benefits.
-Encourage cross-selling and upselling.
-3. Convert Potential Loyalists
-   Provide targeted promotions.
-   Encourage more frequent purchases.
-   Offer personalized recommendations.
-4. Re-engage At Risk Customers
-   Launch personalized win-back campaigns.
-   Offer limited-time discounts.
-   Identify reasons for declining engagement.
-5. Recover Lost Customers
-   Run targeted reactivation campaigns.
-   Provide relevant offers.
-   Analyze previous purchasing behavior to improve re-engagement.
-👨‍💻 Author
+## 👨‍💻 Author
 
 Harsh Jain
 
 B.Tech CSE | Data Analytics Enthusiast
 
-⭐ Conclusion
+## ⭐ Conclusion
 
 This project demonstrates an end-to-end customer analytics workflow, starting from raw transaction data cleaning and RFM analysis to customer segmentation and interactive business intelligence reporting.
 
-The combination of Python, RFM Analysis, and Power BI transforms raw transaction data into meaningful customer insights that can support better marketing, customer retention, and revenue strategies.
+The combination of Python, RFM Analysis, SQL, and Power BI transforms raw transaction data into meaningful customer insights that can support better marketing, customer retention, and revenue strategies.
