@@ -149,26 +149,25 @@ Customer-Segmentation-RFM-Analysis/
 ```
 ## 📌 Business Recommendations
 ### 1. Retain Champions
- -Provide loyalty rewards and exclusive offers.
- -Encourage repeat purchases.
- -Build long-term customer relationships.
+- Provide loyalty rewards and exclusive offers.
+- Encourage repeat purchases.
+- Build long-term customer relationships.
 ### 2. Strengthen Loyal Customers
- -Use personalized product recommendations.
- -Introduce loyalty benefits.
- -Encourage cross-selling and upselling.
+- Use personalized product recommendations.
+- Introduce loyalty benefits.
+- Encourage cross-selling and upselling.
 ### 3. Convert Potential Loyalists
- -Provide targeted promotions.
- -Encourage more frequent purchases.
- -Offer personalized recommendations.
+- Provide targeted promotions.
+- Encourage more frequent purchases.
+- Offer personalized recommendations.
 ### 4. Re-engage At Risk Customers
- -Launch personalized win-back campaigns.
- -Offer limited-time discounts.
- -Identify reasons for declining engagement.
+- Launch personalized win-back campaigns.
+- Offer limited-time discounts.
+- Identify reasons for declining engagement.
 ### 5. Recover Lost Customers
- -Run targeted reactivation campaigns.
- -Provide relevant offers.
- -Analyze previous purchasing behavior to improve re-engagement.
-
+- Run targeted reactivation campaigns.
+- Provide relevant offers.
+- Analyze previous purchasing behavior to improve re-engagement.
 
 ## 👨‍💻 Author
 
